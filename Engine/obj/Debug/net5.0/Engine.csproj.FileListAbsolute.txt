@@ -1,0 +1,12 @@
+C:\Projetos\SuperAdventure\Engine\bin\Debug\net5.0\Engine.deps.json
+C:\Projetos\SuperAdventure\Engine\bin\Debug\net5.0\Engine.dll
+C:\Projetos\SuperAdventure\Engine\bin\Debug\net5.0\ref\Engine.dll
+C:\Projetos\SuperAdventure\Engine\bin\Debug\net5.0\Engine.pdb
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.csproj.AssemblyReference.cache
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.AssemblyInfoInputs.cache
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.AssemblyInfo.cs
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.csproj.CoreCompileInputs.cache
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.dll
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\ref\Engine.dll
+C:\Projetos\SuperAdventure\Engine\obj\Debug\net5.0\Engine.pdb
